@@ -59,7 +59,7 @@ Certifications:
 🏅 AWS – Generative AI Business Strategy and Solution Design (2026)
 🏅 Anthropic – Introduction to Agent Skills (2026)
 
-🔗 LinkedIn
+🔗 LinkedIn(https://www.linkedin.com/in/varshinimaskapuri-681332360)
 📧 maskapurivarshini@gmail.com
 
 🔗 More Projects
