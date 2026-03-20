@@ -5,7 +5,7 @@ Tools: Power BI DAX Data Modeling Healthcare Analytics
 
 
 🎥 Dashboard Demo
-🎥 [▶ Watch Full Dashboard Walkthrough on YouTube](https://youtu.be/https://youtu.be/cuqcOJ6oAWc)
+🎥 [▶ Watch Full Dashboard Walkthrough on YouTube](https://youtu.be/cuqcOJ6oAWc?si=jBtsP92dVzMqtnTM)
 
 
 📌 Project Overview
